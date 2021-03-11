@@ -1,7 +1,7 @@
 {
   "name": "kirby-vite-basic-kit",
   "version": "1.0.0",
-  "main": "vite.config.js",
+  "main": "src/index.js",
   "scripts": {
     "vite": "vite",
     "dev": "shx touch src/.lock && concurrently \"npm:server\" \"npm:vite\"",
