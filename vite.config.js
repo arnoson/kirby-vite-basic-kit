@@ -18,7 +18,7 @@ export default ({ mode }) => ({
     emptyOutDir: true,
     manifest: true,
     rollupOptions: {
-      input: '/src/index.js'
+      input: resolve(process.cwd(), 'src/index.js')
     }
   },
 

@@ -1,6 +1,9 @@
 {
+    "name": "arno/kirby-vite-basic-kit",
+    "description": "A simple Kirby CMS + Vite starter kit",
+    "type": "project",
+    "license": "MIT",
     "require": {
-        "getkirby/cms": "3.5.3.1",
-        "arnoson/kirby-vite": "^2.1"
+        "getkirby/cms": "3.5.3.1"
     }
 }

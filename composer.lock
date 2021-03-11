@@ -4,40 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "11223c285245a258a0fc3c746b80ac80",
+    "content-hash": "6a6ed3a4b5dd080fecc011b862a49ee3",
     "packages": [
-        {
-            "name": "arnoson/kirby-vite",
-            "version": "v2.1.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/arnoson/kirby-vite.git",
-                "reference": "b72818aa577f0b658c4a51486919174a99839e00"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/b72818aa577f0b658c4a51486919174a99839e00",
-                "reference": "b72818aa577f0b658c4a51486919174a99839e00",
-                "shasum": ""
-            },
-            "require": {
-                "getkirby/composer-installer": "^1.1"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^9.5"
-            },
-            "type": "kirby-plugin",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "Vite helper for Kirby CMS",
-            "support": {
-                "issues": "https://github.com/arnoson/kirby-vite/issues",
-                "source": "https://github.com/arnoson/kirby-vite/tree/v2.1.2"
-            },
-            "time": "2021-03-10T11:41:34+00:00"
-        },
         {
             "name": "claviska/simpleimage",
             "version": "3.5.1",
