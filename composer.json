@@ -5,6 +5,6 @@
     "license": "MIT",
     "require": {
         "getkirby/cms": "3.5.3.1",
-        "arnoson/kirby-vite": "^2.1"
+        "arnoson/kirby-vite": "^2.2"
     }
 }
