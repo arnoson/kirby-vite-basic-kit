@@ -1,7 +1,5 @@
 .DS_Store
 node_modules/
-package-lock.json 
-composer.lock
 
 # Frontend
 /public/assets/
@@ -13,7 +11,7 @@ kirby
 vendor
 
 site/plugins/*
-!site/plugin/custom
+!site/plugins/custom
 
 /public/media/*
 !/public/media/index.html
