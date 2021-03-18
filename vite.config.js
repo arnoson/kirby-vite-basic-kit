@@ -6,8 +6,8 @@ export default ({ mode }) => ({
   base: mode === 'development' ? '/' : '/dist/',
 
   server: {
+    // Only important if you use a non-localhost php server, like laravel valet:    
     // cors: true,
-    // Only important if you use a non-localhost php server, like laravel valet:
     // hmr: { host: 'localhost' },
     port: 3000,
     strictPort: true
@@ -23,9 +23,6 @@ export default ({ mode }) => ({
   },
 
   plugins: [
-    liveReload([
-      '../content/**/*',
-      '../site/(templates|snippets|controllers|models)/**/*.php'
-    ])
+    liveReload(['content/**/*', 'site/**/*.php'], { root: process.cwd() })
   ]
 })
