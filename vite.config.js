@@ -9,6 +9,7 @@ export default ({ mode }) => ({
     // Only important if you use a non-localhost php server, like laravel valet:    
     // cors: true,
     // hmr: { host: 'localhost' },
+    origin: 'http://localhost:3000',
     port: 3000,
     strictPort: true
   },
