@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "arnoson/kirby-vite",
-            "version": "3.0.4",
+            "version": "3.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/arnoson/kirby-vite.git",
-                "reference": "2eb052b8c3a8573e850fb9c78291ff80769c6353"
+                "reference": "0b26cffa2c89cada21b60917739915c1e6ba8c3f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/2eb052b8c3a8573e850fb9c78291ff80769c6353",
-                "reference": "2eb052b8c3a8573e850fb9c78291ff80769c6353",
+                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/0b26cffa2c89cada21b60917739915c1e6ba8c3f",
+                "reference": "0b26cffa2c89cada21b60917739915c1e6ba8c3f",
                 "shasum": ""
             },
             "require": {
@@ -40,9 +40,9 @@
             "description": "Vite helper for Kirby CMS",
             "support": {
                 "issues": "https://github.com/arnoson/kirby-vite/issues",
-                "source": "https://github.com/arnoson/kirby-vite/tree/v3.0.4"
+                "source": "https://github.com/arnoson/kirby-vite/tree/v3.0.6"
             },
-            "time": "2022-12-06T08:42:56+00:00"
+            "time": "2023-02-15T08:35:38+00:00"
         },
         {
             "name": "claviska/simpleimage",
