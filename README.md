@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/15122993/230586295-c0341d08-88dc-4107-874d-91fcbf6bc4ce.svg"
- alt="Kirby Vite Basic Kit" width="135" height="135">
-</p>
-
-<h1 align="center">Kirby Vite Basic Kit</h1>
+# Kirby Vite Basic Kit
 
 ## Features
 
