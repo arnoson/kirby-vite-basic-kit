@@ -4,7 +4,7 @@
 
 - ⚡️ Uses [Vite](https://vitejs.dev/) with [kirby-vite](https://github.com/arnoson/kirby-vite) plugin
 - 🔄 Live Reloading for Kirby templates, snippets, content, ... changes
-- 📂 [Public folder structure](https://getkirby.com/docs/guide/configuration#custom-folder-setup__public-folder-setup)
+- 📂 [Public folder structure](https://getkirby.com/docs/guide/configuration/custom-folder-setup#public-and-private-folder-setup)
 
 ## Installation
 
